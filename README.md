@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**williambrunos/williambrunos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou focando em **POO, estruturas de dados e programação competitiva.**
 - 🌱 Estou estudando **Java e C#** para **desenvolvimento de software e pretendo estudar desenvolvimento web/mobile**
 - 👯 Procuro colaborar no que eu puder com **projetos e solução de dúvidas.**
@@ -16,4 +11,4 @@ Here are some ideas to get you started:
 pos structs, estruturas de dados como listas e pilhas até aplicações para pequenos sistemas. Pretendo fazer mais repositórios
 sobre java e programação orientada a objetos e contribuir ainda mais.
 - ⚡ Aceito qualquer tipo de dúvidas, sugestões quanto a conteúdo a se estudar ou sobre carreira :)
--->
+
