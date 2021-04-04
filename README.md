@@ -7,6 +7,7 @@
 - 📫 Como me contatar:
     * Email: williambruno172@gmail.com
     * Instagram: william__bs
+    * Linkedin: https://www.linkedin.com/in/william-bruno-532561209/
 - 😄 Possuo repositórios com códigos de programas feitos em linguagem C que abrangem desde estruturas condicionais, passando
 pos structs, estruturas de dados como listas e pilhas até aplicações para pequenos sistemas. Pretendo fazer mais repositórios
 sobre java e programação orientada a objetos e contribuir ainda mais.
