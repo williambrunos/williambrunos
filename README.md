@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Atualmente estou focando em **POO, estruturas de dados e programação competitiva.**
-- 🌱 Estou estudando **Java e C#** para **desenvolvimento de software e pretendo estudar desenvolvimento web/mobile**
+- 🔭 Atualmente estou focando em **estruturas de dados, alogrítmos, problemas computacionais e desenvolvimento web.**
+- 🌱 Estou estudando **Java** para **desenvolvimento de software e web back-end, HTML, CSS e JavaScript para desenvolvimento front-end**
 - 👯 Procuro colaborar no que eu puder com **projetos e solução de dúvidas.**
 - 🤔 Procuro ajuda a respeito do que estudar para desenvolvimento de software, desenvolvimento web/mobile.
 - 📫 Como me contatar:
