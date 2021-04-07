@@ -12,4 +12,5 @@
 pos structs, estruturas de dados como listas e pilhas até aplicações para pequenos sistemas, além de alguns projetos feitos em Java e C#.
 Pretendo construir mais aplicações web que consolidem meu aprendizado na área de desenvolvimento.
 - ⚡ Aceito qualquer tipo de dúvidas, sugestões quanto a conteúdo a se estudar ou sobre carreira :)
+- :exclamation: Skills: Git, Github, C, Java, Python, HTML
 
