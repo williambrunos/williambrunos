@@ -8,9 +8,7 @@
     * Email: williambruno172@gmail.com
     * Instagram: william__bs
     * Linkedin: https://www.linkedin.com/in/william-bruno-532561209/
-- 😄 Possuo repositórios com códigos de programas feitos em linguagem C que abrangem desde estruturas condicionais, passando
-pos structs, estruturas de dados como listas e pilhas até aplicações para pequenos sistemas, além de alguns projetos feitos em Java e C#.
-Pretendo construir mais aplicações web que consolidem meu aprendizado na área de desenvolvimento.
+- 😄 Possuo repositórios com códigos de programas feitos em linguagem C, especificamente para estruturas de dados. Possuo códigos de estruturas de dados também feitos com Python, projetos utilizando GUI's e regras de negócios em Java e C#. Possuo projetos de front-end feitos com HTML, CSS, JS, React e TS.
 - ⚡ Aceito qualquer tipo de dúvidas, sugestões quanto a conteúdo a se estudar ou sobre carreira :)
 -  :exclamation: Skills: Git, Github, C, Java, Python, HTML, CSS, JavaScript, Metodologias Ágeis.
 -  📚 Studying: HTML, CSS, JS, Linux, TS, React, Node
