@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente estou focando em **estruturas de dados, alogrítmos, problemas computacionais e desenvolvimento web.**
+- 🔭 Atualmente estou focando em **estruturas de dados, alogrítmos, problemas computacionais, python para ciência de dados e desenvolvimento web.**
 - 🌱 Estou estudando **NodeJS** para **desenvolvimento de software e web back-end, HTML, CSS e JavaScript para desenvolvimento front-end**
 - 👯 Procuro colaborar no que eu puder com **projetos e solução de dúvidas.**
 - 🤔 Procuro ajuda a respeito do que estudar para desenvolvimento de software, desenvolvimento web/mobile.
